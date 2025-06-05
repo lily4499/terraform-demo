@@ -38,7 +38,7 @@ pipeline {
   //       sh 'terraform apply -auto-approve tfplan'
   //     }
   //   }
-  // }
+   }
 
   post {
     always {
